@@ -1,13 +1,13 @@
 #include <SSXdevice.h>
 
-const char* ssid = "Czr Ap10";
-const char* password = "aq1sw2de3";
+const char* ssid = "SUA-REDE";
+const char* password = "SENHA-DA-SUA-REDE";
 
-SSXdevice(ssid, password);
+SSXdevice myDevice(ssid, password);
 
 void setup() {
   Serial.begin(115200);
-  SSXdevice.setupWiFi();
+  myDevice.setupWiFi();
 }
 
 void loop() {
@@ -21,7 +21,7 @@ void loop() {
     TelemetriaData telemetria[] = {{17, 60}, {9, 30}, {15, 1500}};
     int idMotorista = 1212;
 
-    if(SSXdevice.sendDeviceData(hashCentral, equipamento, codEvento, latitude, longitude, entradas, saidas, telemetria, 3, idMotorista)) {
+    if(myDevice.sendDeviceData(hashCentral, equipamento, codEvento, latitude, longitude, entradas, saidas, telemetria, 3, idMotorista)) {
         Serial.println("Dados enviados com sucesso!");
     } else {
         Serial.println("Falha ao enviar dados.");
