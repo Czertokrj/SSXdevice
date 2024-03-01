@@ -1,3 +1,2 @@
-Biblioteca Arduino para enviar dados de equipamentos iot para a API do SSX. 
-Andrey Czertok - andrey.czertok@systemsat.com.br
-www.systemsat.com.br
+Biblioteca Arduino para enviar dados de equipamentos iot para a API do SSX. Desenvolvido pela Systemsat S E C E C D Ltda. 
+Site: www.systemsat.com.br
