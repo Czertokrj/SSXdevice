@@ -1,6 +1,6 @@
 #include "SSXdevice.h"
 
-SSXdevice::login(const char* ssid, const char* password) {
+SSXdevice::SSXdevice(const char* ssid, const char* password) {
   _ssid = ssid;
   _password = password;
 }
