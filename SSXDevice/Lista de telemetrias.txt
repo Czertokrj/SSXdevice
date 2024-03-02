@@ -1,0 +1,586 @@
+[
+  {
+    "IdTelemetry": -32759,
+    "Name": "1401"
+  },
+  {
+    "IdTelemetry": 3,
+    "Name": "Altitude"
+  },
+  {
+    "IdTelemetry": 329,
+    "Name": "Bateria carregando"
+  },
+  {
+    "IdTelemetry": 522,
+    "Name": "Bateria do sensor 1 (%)"
+  },
+  {
+    "IdTelemetry": 523,
+    "Name": "Bateria do sensor 2 (%)"
+  },
+  {
+    "IdTelemetry": 524,
+    "Name": "Bateria do sensor 3 (%)"
+  },
+  {
+    "IdTelemetry": 525,
+    "Name": "Bateria do sensor 4 (%)"
+  },
+  {
+    "IdTelemetry": 203,
+    "Name": "Canal RF"
+  },
+  {
+    "IdTelemetry": 12001,
+    "Name": "Código de falhas (DTC)"
+  },
+  {
+    "IdTelemetry": -32760,
+    "Name": "Condutor"
+  },
+  {
+    "IdTelemetry": 159,
+    "Name": "Consumo de combustível entre posições"
+  },
+  {
+    "IdTelemetry": 336,
+    "Name": "Consumo de combustível médio (Km/l)"
+  },
+  {
+    "IdTelemetry": 557,
+    "Name": "Dados de reconhecimento de sinais de trânsito"
+  },
+  {
+    "IdTelemetry": 6,
+    "Name": "Direção"
+  },
+  {
+    "IdTelemetry": 12000,
+    "Name": "Distância da antena (metros)"
+  },
+  {
+    "IdTelemetry": 555,
+    "Name": "Distância dianteira (Veículo/Pessoa)"
+  },
+  {
+    "IdTelemetry": 401,
+    "Name": "Distância para próxima manutenção"
+  },
+  {
+    "IdTelemetry": 173,
+    "Name": "Distância percorrida com a luz de injeção acesa"
+  },
+  {
+    "IdTelemetry": 333,
+    "Name": "Distância percorrida sem erros DTC"
+  },
+  {
+    "IdTelemetry": 521,
+    "Name": "Eco score"
+  },
+  {
+    "IdTelemetry": 338,
+    "Name": "Entrada analógica 1"
+  },
+  {
+    "IdTelemetry": 600,
+    "Name": "Entrada analógica 2"
+  },
+  {
+    "IdTelemetry": 550,
+    "Name": "Estado da viagem"
+  },
+  {
+    "IdTelemetry": 549,
+    "Name": "Estado de marcha"
+  },
+  {
+    "IdTelemetry": 547,
+    "Name": "Estado do limpador de parabrisas"
+  },
+  {
+    "IdTelemetry": 548,
+    "Name": "Estado excesso de velocidade"
+  },
+  {
+    "IdTelemetry": 551,
+    "Name": "Faixa de RPM"
+  },
+  {
+    "IdTelemetry": 12002,
+    "Name": "Faixas de RPM"
+  },
+  {
+    "IdTelemetry": 545,
+    "Name": "Farol"
+  },
+  {
+    "IdTelemetry": 541,
+    "Name": "Freio de mão"
+  },
+  {
+    "IdTelemetry": 552,
+    "Name": "Freio motor ( % )"
+  },
+  {
+    "IdTelemetry": 177,
+    "Name": "Frequência RF"
+  },
+  {
+    "IdTelemetry": 200,
+    "Name": "Hodômetro virtual"
+  },
+  {
+    "IdTelemetry": 16,
+    "Name": "Horímetro"
+  },
+  {
+    "IdTelemetry": 88,
+    "Name": "Horímetro 2"
+  },
+  {
+    "IdTelemetry": 90,
+    "Name": "Horímetro 3"
+  },
+  {
+    "IdTelemetry": 92,
+    "Name": "Horímetro 4"
+  },
+  {
+    "IdTelemetry": 94,
+    "Name": "Horímetro 5"
+  },
+  {
+    "IdTelemetry": 96,
+    "Name": "Horímetro 6"
+  },
+  {
+    "IdTelemetry": 302,
+    "Name": "Horímetro parcial"
+  },
+  {
+    "IdTelemetry": 87,
+    "Name": "Horímetro parcial 2"
+  },
+  {
+    "IdTelemetry": 89,
+    "Name": "Horímetro parcial 3"
+  },
+  {
+    "IdTelemetry": 91,
+    "Name": "Horímetro parcial 4"
+  },
+  {
+    "IdTelemetry": 93,
+    "Name": "Horímetro parcial 5"
+  },
+  {
+    "IdTelemetry": 95,
+    "Name": "Horímetro parcial 6"
+  },
+  {
+    "IdTelemetry": 335,
+    "Name": "Horímetro por RPM"
+  },
+  {
+    "IdTelemetry": 199,
+    "Name": "Horímetro virtual"
+  },
+  {
+    "IdTelemetry": 63,
+    "Name": "Identificação do motorista"
+  },
+  {
+    "IdTelemetry": 328,
+    "Name": "Identificação SimCard"
+  },
+  {
+    "IdTelemetry": 85,
+    "Name": "Intervalo do estado da betoneira"
+  },
+  {
+    "IdTelemetry": 536,
+    "Name": "Kickdown acelerador"
+  },
+  {
+    "IdTelemetry": 156,
+    "Name": "Litros abastecidos"
+  },
+  {
+    "IdTelemetry": 169,
+    "Name": "Litros consumidos por hora"
+  },
+  {
+    "IdTelemetry": 535,
+    "Name": "Marcha"
+  },
+  {
+    "IdTelemetry": 530,
+    "Name": "Modo do cambio"
+  },
+  {
+    "IdTelemetry": 8,
+    "Name": "Nível da bateria backup"
+  },
+  {
+    "IdTelemetry": 7,
+    "Name": "Nível da bateria principal"
+  },
+  {
+    "IdTelemetry": 324,
+    "Name": "Nível de AddBlue"
+  },
+  {
+    "IdTelemetry": 157,
+    "Name": "Nível de combustível 1"
+  },
+  {
+    "IdTelemetry": 158,
+    "Name": "Nível de combustível 2"
+  },
+  {
+    "IdTelemetry": 553,
+    "Name": "Nível de fadiga"
+  },
+  {
+    "IdTelemetry": 18,
+    "Name": "Nível de precisão da posição (HDOP)"
+  },
+  {
+    "IdTelemetry": 320,
+    "Name": "Nível de precisão da posição (metros)"
+  },
+  {
+    "IdTelemetry": 40,
+    "Name": "Nivel de sinal GPRS"
+  },
+  {
+    "IdTelemetry": 543,
+    "Name": "Nível do líquido de arrefecimento"
+  },
+  {
+    "IdTelemetry": 451,
+    "Name": "Nível do óleo hidráulico"
+  },
+  {
+    "IdTelemetry": 539,
+    "Name": "Nível do tanque de Arla32"
+  },
+  {
+    "IdTelemetry": 205,
+    "Name": "Nivel sinal RSSI"
+  },
+  {
+    "IdTelemetry": 334,
+    "Name": "Número de DTCs"
+  },
+  {
+    "IdTelemetry": 2,
+    "Name": "Número de satélites GPS"
+  },
+  {
+    "IdTelemetry": 193,
+    "Name": "Numero de satélites vistos GPS"
+  },
+  {
+    "IdTelemetry": 15,
+    "Name": "Odômetro"
+  },
+  {
+    "IdTelemetry": 301,
+    "Name": "Odômetro parcial"
+  },
+  {
+    "IdTelemetry": 540,
+    "Name": "Pedal do freio"
+  },
+  {
+    "IdTelemetry": 544,
+    "Name": "Pedal Embreagem "
+  },
+  {
+    "IdTelemetry": 304,
+    "Name": "Percentual combustível"
+  },
+  {
+    "IdTelemetry": 62,
+    "Name": "Percentual de bateria Atual"
+  },
+  {
+    "IdTelemetry": 321,
+    "Name": "Percentual de carga no motor (Torque)"
+  },
+  {
+    "IdTelemetry": 303,
+    "Name": "Percentual pedal aceleração"
+  },
+  {
+    "IdTelemetry": 403,
+    "Name": "Percetual de torque do retarder"
+  },
+  {
+    "IdTelemetry": 325,
+    "Name": "Peso do caminhão"
+  },
+  {
+    "IdTelemetry": 172,
+    "Name": "Peso por eixo"
+  },
+  {
+    "IdTelemetry": 171,
+    "Name": "Peso total"
+  },
+  {
+    "IdTelemetry": 534,
+    "Name": "Piloto automático"
+  },
+  {
+    "IdTelemetry": 160,
+    "Name": "Posição do acelerador"
+  },
+  {
+    "IdTelemetry": 337,
+    "Name": "Pressão de combustível"
+  },
+  {
+    "IdTelemetry": 402,
+    "Name": "Pressão do freio"
+  },
+  {
+    "IdTelemetry": 533,
+    "Name": "Pressão do óleo do motor"
+  },
+  {
+    "IdTelemetry": 175,
+    "Name": "Pressão do turbo"
+  },
+  {
+    "IdTelemetry": 531,
+    "Name": "Pressão pneumática 1"
+  },
+  {
+    "IdTelemetry": 532,
+    "Name": "Pressão pneumática 2"
+  },
+  {
+    "IdTelemetry": 312,
+    "Name": "Quantidade aceleração brusca"
+  },
+  {
+    "IdTelemetry": 306,
+    "Name": "Quantidade de combustível parcial"
+  },
+  {
+    "IdTelemetry": 404,
+    "Name": "Quantidade de ids na memória"
+  },
+  {
+    "IdTelemetry": 313,
+    "Name": "Quantidade freada brusca"
+  },
+  {
+    "IdTelemetry": 202,
+    "Name": "Rede colaborativa RF"
+  },
+  {
+    "IdTelemetry": 35,
+    "Name": "RPM"
+  },
+  {
+    "IdTelemetry": 309,
+    "Name": "RPM máximo"
+  },
+  {
+    "IdTelemetry": 308,
+    "Name": "RPM médio"
+  },
+  {
+    "IdTelemetry": 310,
+    "Name": "RPM mínimo"
+  },
+  {
+    "IdTelemetry": 9,
+    "Name": "Sensor de temperatura 1"
+  },
+  {
+    "IdTelemetry": 10,
+    "Name": "Sensor de temperatura 2"
+  },
+  {
+    "IdTelemetry": 11,
+    "Name": "Sensor de temperatura 3"
+  },
+  {
+    "IdTelemetry": 81,
+    "Name": "Sensor de temperatura 4"
+  },
+  {
+    "IdTelemetry": 82,
+    "Name": "Sensor de temperatura 5"
+  },
+  {
+    "IdTelemetry": 526,
+    "Name": "Sensor de umidade 1"
+  },
+  {
+    "IdTelemetry": 527,
+    "Name": "Sensor de umidade 2"
+  },
+  {
+    "IdTelemetry": 528,
+    "Name": "Sensor de umidade 3"
+  },
+  {
+    "IdTelemetry": 529,
+    "Name": "Sensor de umidade 4"
+  },
+  {
+    "IdTelemetry": 201,
+    "Name": "Sequencial do log"
+  },
+  {
+    "IdTelemetry": 204,
+    "Name": "Serial RF"
+  },
+  {
+    "IdTelemetry": 170,
+    "Name": "Temperatura ambiente"
+  },
+  {
+    "IdTelemetry": 330,
+    "Name": "Temperatura de baú frigorífico 1"
+  },
+  {
+    "IdTelemetry": 331,
+    "Name": "Temperatura de baú frigorífico 2"
+  },
+  {
+    "IdTelemetry": 332,
+    "Name": "Temperatura de baú frigorífico 3"
+  },
+  {
+    "IdTelemetry": 452,
+    "Name": "Temperatura do combustível"
+  },
+  {
+    "IdTelemetry": 167,
+    "Name": "Temperatura do motor"
+  },
+  {
+    "IdTelemetry": 166,
+    "Name": "Temperatura do óleo"
+  },
+  {
+    "IdTelemetry": 450,
+    "Name": "Temperatura do óleo hidráulico"
+  },
+  {
+    "IdTelemetry": 20,
+    "Name": "Temperatura interna do módulo"
+  },
+  {
+    "IdTelemetry": 305,
+    "Name": "Temperatura líquido de arrefecimento"
+  },
+  {
+    "IdTelemetry": 174,
+    "Name": "Tempo decorrido com a luz de injeção acesa"
+  },
+  {
+    "IdTelemetry": 311,
+    "Name": "Tempo em velocidade máxima"
+  },
+  {
+    "IdTelemetry": 316,
+    "Name": "Tempo motor ocioso"
+  },
+  {
+    "IdTelemetry": 317,
+    "Name": "Tempo total em banguela"
+  },
+  {
+    "IdTelemetry": 176,
+    "Name": "Timing Advance"
+  },
+  {
+    "IdTelemetry": 546,
+    "Name": "Tipo de conexão"
+  },
+  {
+    "IdTelemetry": 558,
+    "Name": "Tipo de desvio"
+  },
+  {
+    "IdTelemetry": 556,
+    "Name": "Tipo de reconhecimento de sinais de trânsito"
+  },
+  {
+    "IdTelemetry": 323,
+    "Name": "Total AddBlue Utilizado"
+  },
+  {
+    "IdTelemetry": 322,
+    "Name": "Total de combustível utilizado"
+  },
+  {
+    "IdTelemetry": 314,
+    "Name": "Total tempo excesso RPM"
+  },
+  {
+    "IdTelemetry": 405,
+    "Name": "Valor do crc total"
+  },
+  {
+    "IdTelemetry": 315,
+    "Name": "Valor máximo excesso RPM"
+  },
+  {
+    "IdTelemetry": 17,
+    "Name": "Velocidade"
+  },
+  {
+    "IdTelemetry": -32761,
+    "Name": "Velocidade (SSS)"
+  },
+  {
+    "IdTelemetry": 21,
+    "Name": "Velocidade com casas decimais"
+  },
+  {
+    "IdTelemetry": 554,
+    "Name": "Velocidade do veículo dianteiro"
+  },
+  {
+    "IdTelemetry": 319,
+    "Name": "Velocidade máxima"
+  },
+  {
+    "IdTelemetry": 307,
+    "Name": "Velocidade média"
+  },
+  {
+    "IdTelemetry": 168,
+    "Name": "Velocidade tacógrafo"
+  },
+  {
+    "IdTelemetry": 327,
+    "Name": "Voltagem bateria backup"
+  },
+  {
+    "IdTelemetry": 326,
+    "Name": "Voltagem bateria principal"
+  },
+  {
+    "IdTelemetry": 339,
+    "Name": "Voltagem da alimentação Auxiliar"
+  },
+  {
+    "IdTelemetry": 340,
+    "Name": "Voltagem do painel solar"
+  },
+  {
+    "IdTelemetry": 12,
+    "Name": "Wi-Fi"
+  }
+]
