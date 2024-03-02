@@ -1,3 +1,11 @@
+/*
+SSXdevice.ino
+Versão 1.0.0
+Exemplo de código para envio de dados de localização, entradas, saídas, temperatura, velocidade e odometro;
+Criado por Andrey Czertok e Thiago Kalahy
+Em: 01/03/2024
+*/
+
 #include <SSXdevice.h>
 
 const char* ssid = "SUA-REDE";
