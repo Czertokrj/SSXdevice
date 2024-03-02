@@ -3,4 +3,4 @@ Site: www.systemsat.com.br - Andrey Czertok e Thiago Kalahy
 
 
 
-Use "Lista de Telemetria.txt" para verificar o id de cada telemetria e "Lista de Eventos" pra verificar os códigos de eventos.
+Use "Lista de Telemetria.txt" para verificar o id de cada telemetria e "Lista de Eventos.txt" pra verificar os códigos de eventos.
